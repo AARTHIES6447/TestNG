@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T11:17:46 IST" name="Suite" finished-at="2023-11-08T11:19:36 IST" duration-ms="110341">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T11:17:46 IST" name="Test" finished-at="2023-11-08T11:19:36 IST" duration-ms="110341">
+      <class name="com.TestNG.LoginTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestNG.LoginTests@35dab4eb]" started-at="2023-11-08T11:18:53 IST" name="setup" finished-at="2023-11-08T11:19:34 IST" duration-ms="41068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestNG.LoginTests@35dab4eb]" started-at="2023-11-08T11:19:34 IST" name="loginTest" finished-at="2023-11-08T11:19:36 IST" duration-ms="1795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.TestNG.LoginTests@35dab4eb]" started-at="2023-11-08T11:19:36 IST" name="close" finished-at="2023-11-08T11:19:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.TestNG.LoginTests -->
+      <class name="com.TestNG.DashboardPageTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestNG.DashboardPageTests@4c60d6e9]" started-at="2023-11-08T11:17:46 IST" name="setup" finished-at="2023-11-08T11:18:39 IST" duration-ms="53314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DashboardTest()[pri:1, instance:com.TestNG.DashboardPageTests@4c60d6e9]" started-at="2023-11-08T11:18:39 IST" name="DashboardTest" finished-at="2023-11-08T11:18:53 IST" duration-ms="14117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DashboardTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.TestNG.DashboardPageTests@4c60d6e9]" started-at="2023-11-08T11:18:53 IST" name="close" finished-at="2023-11-08T11:18:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.TestNG.DashboardPageTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
